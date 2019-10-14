@@ -1,0 +1,73 @@
+Host: 10.0.128.1 (bluerouter.px.ftw)	
+Host: 10.0.128.2 (ad-server.px.ftw)	
+Host: 10.0.128.3 (ad-server2.px.ftw)	
+Host: 10.0.128.12 (planx-mirror.px.ftw)	
+Host: 10.0.128.14 (docker)	
+Host: 10.0.128.15 (dockermirror.px.ftw)	
+Host: 10.0.128.16 (proxmox-r1u16.px.ftw)	
+Host: 10.0.128.18 (bdp-devstack-r1u18.px.ftw)	
+Host: 10.0.128.20 (esxi-r1u20.px.ftw)	
+Host: 10.0.128.22 (esxi-r1u22.px.ftw)	
+Host: 10.0.128.24 (esxi-r1u24.px.ftw)	
+Host: 10.0.128.26 (esxi-r1u26.px.ftw)	
+Host: 10.0.128.28 (esxi-r1u28.px.ftw)	
+Host: 10.0.128.30 (esxi-r1u30.px.ftw)	
+Host: 10.0.128.32 (esxi-r1u32.px.ftw)	
+Host: 10.0.128.33 (esxi-r1u33.px.ftw)	
+Host: 10.0.128.35 (ap2.px.ftw)	
+Host: 10.0.160.1 (jira.px.ftw)	
+Host: 10.0.160.2 (confluence.px.ftw)	
+Host: 10.0.160.3 (github-enterprise.px.ftw)	
+Host: 10.0.160.5 (auto-jenkins.px.ftw)	Status: Up
+Host: 10.0.160.6 (gocd-server.px.ftw)	Status: Up
+Host: 10.0.160.7 (infra-esxi-docker-services.ike.net)	Status: Up
+Host: 10.0.160.8 (build-controller.px.ftw)	Status: Up
+Host: 10.0.160.9 (pr-monitor.px.ftw)	Status: Up
+Host: 10.0.160.11 (redirect.px.ftw)	Status: Up
+Host: 10.0.160.12 (prbuilder.px.ftw)	Status: Up
+Host: 10.0.160.13 (rocketchat.px.ftw)	Status: Up
+Host: 10.0.160.15 (password.px.ftw)	Status: Up
+Host: 10.0.160.20 (j-agent01.px.ftw)	Status: Up
+Host: 10.0.160.21 (j-agent02.px.ftw)	Status: Up
+Host: 10.0.160.22 (j-agent03.px.ftw)	Status: Up
+Host: 10.0.160.23 (j-agent04.px.ftw)	Status: Up
+Host: 10.0.160.24 (j-agent05.px.ftw)	Status: Up
+Host: 10.0.160.25 (j-agent06.px.ftw)	Status: Up
+Host: 10.0.160.26 (j-agent07.px.ftw)	Status: Up
+Host: 10.0.160.27 (j-agent08.px.ftw)	Status: Up
+Host: 10.0.160.45 (squid-proxy.px.ftw)	Status: Up
+Host: 10.0.162.10 (selenium-grid00.px.ftw)	Status: Up
+Host: 10.0.162.11 (selenium-grid01.px.ftw)	Status: Up
+Host: 10.0.162.12 (selenium-grid02.px.ftw)	Status: Up
+Host: 10.0.162.13 (selenium-grid03.px.ftw)	Status: Up
+Host: 10.0.162.14 (selenium-grid04.px.ftw)	Status: Up
+Host: 10.0.162.15 (selenium-grid05.px.ftw)	Status: Up
+Host: 10.0.162.31 (auto-slave01.px.ftw)	Status: Up
+Host: 10.0.162.32 (auto-slave02.px.ftw)	Status: Up
+Host: 10.0.162.33 (auto-slave03.px.ftw)	Status: Up
+Host: 10.0.163.1 (go-packer01.px.ftw)	Status: Up
+Host: 10.0.163.2 (go-packer02.px.ftw)	Status: Up
+Host: 10.0.163.4 (go-packer04.px.ftw)	Status: Up
+Host: 10.0.163.5 (go-packer05.px.ftw)	Status: Up
+Host: 10.0.163.6 (go-packer06.px.ftw)	Status: Up
+Host: 10.0.163.7 (go-packer07.px.ftw)	Status: Up
+Host: 10.0.163.81 (centos-pxbox-deploy.px.ftw)	Status: Up
+Host: 10.0.163.82 (centos-pxbox-stable.px.ftw)	Status: Up
+Host: 10.0.163.83 (ikebox-daily.px.ftw)	Status: Up
+Host: 10.0.163.105 (pxbox-stable.px.ftw)	Status: Up
+Host: 10.0.163.150 (ikebox-release.px.ftw)	Status: Up
+Host: 10.0.164.7 (prbuilder-rd07.px.ftw)	Status: Up
+Host: 10.0.164.8 (prbuilder-rd08.px.ftw)	Status: Up
+Host: 10.0.164.9 (prbuilder-rd09.px.ftw)	Status: Up
+Host: 10.0.164.10 (prbuilder-rd10.px.ftw)	Status: Up
+Host: 10.0.175.11 (consul.px.ftw)	Status: Up
+Host: 10.0.175.12 (pw.px.ftw)	Status: Up
+Host: 10.0.190.211 (zabbix.px.ftw)	Status: Up
+Host: 10.0.190.230 (monitor.px.ftw)	Status: Up
+Host: 10.0.191.78 (go-esxi09.px.ftw)	Status: Up
+Host: 10.0.191.79 (go-esxi08.px.ftw)	Status: Up
+Host: 10.0.191.80 (go-esxi07.px.ftw)	Status: Up
+Host: 10.0.191.81 (go-esxi06.px.ftw)	Status: Up
+Host: 10.0.191.83 (go-esxi05.px.ftw)	Status: Up
+Host: 10.0.191.155 (pxbox-cp128.px.ftw)	Status: Up
+Host: 10.0.191.222 (go-esxi01.px.ftw)	Status: Up
